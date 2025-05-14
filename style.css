@@ -1,0 +1,13 @@
+.nav-link{
+    color: #000000 !important;
+    font-size: smaller;
+}
+.navbar-brand{
+    font-size: smaller;
+    font-weight: bolder;
+}
+#hero_section{
+    height: 600px;
+    background-image: url('./assets/hero_section.png');
+    background-size: cover;
+}
